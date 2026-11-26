@@ -6,60 +6,81 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /A 4 0 R /B 5 0 R /C 6 0 R >> >> /Contents 7 0 R >>
 endobj
 4 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Length 1452 >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 3775 >>
 stream
-BT /F 11 Tf 50 790 Td 15 TL
-(Alejandro Gómez) Tj T*
-(IT support and web development) Tj T*
-(alejandrogomez9291@gmail.com) Tj T*
-(Spanish citizenship · Planning to relocate to Castellón de la Plana) Tj T*
-(Native Spanish · Self-assessed B2 English) Tj T*
-() Tj T*
-(Experience) Tj T*
-(Present | Apartment maintenance | United States) Tj T*
-(Interior repairs, finishing work and photographic documentation.) Tj T*
-() Tj T*
-(Dec 2022 | Vengamers | Valencia, Venezuela) Tj T*
-(Purchased video games through digital platforms.) Tj T*
-() Tj T*
-(Aug 2021 | Aguas Yaracuy | Venezuela) Tj T*
-(Developed backend software to manage service requests for electronic and) Tj T*
-(communications equipment.) Tj T*
-() Tj T*
-(Mar 2019 | Yaracuy Regional Health Authority | Venezuela) Tj T*
-(Led a community service team carrying out preventive maintenance and repairs on 150) Tj T*
-(computers.) Tj T*
-() Tj T*
-(Projects) Tj T*
-(Luma Crew | Field work documentation) Tj T*
-(Caze Exchange | Exchange rate quotations) Tj T*
-(University project | Academic development with Laravel) Tj T*
-() Tj T*
-(Skills) Tj T*
-(IT support · Hardware and software diagnostics, Windows and Linux.) Tj T*
-(Web development · PHP, Laravel, backend development and hands-on use of Cloudflare.) Tj T*
-(Networking · Knowledge of LANs, WANs, WLANs, firewalls and VPNs.) Tj T*
-() Tj T*
-(Computer Engineering · Universidad Politécnica Territorial de Yaracuy Arístides) Tj T*
-(Bastidas · 2021) Tj T*
-ET
+.06 .19 .24 rg 0 697 595 145 re f
+.12 .50 .46 rg 0 697 9 145 re f
+BT 1 1 1 rg /C 36 Tf 1 0 0 1 40 787 Tm (Alejandro Gómez) Tj ET
+BT .73 .91 .87 rg /B 15 Tf 1 0 0 1 42 760 Tm (IT support and web development) Tj ET
+BT 1 1 1 rg /A 10 Tf 1 0 0 1 42 735 Tm (alejandrogomez9291@gmail.com) Tj ET
+BT 1 1 1 rg /A 10 Tf 1 0 0 1 42 716 Tm (Spanish citizenship · Planning to relocate to Castellón de la Plana) Tj ET
+BT .10 .17 .22 rg /B 16 Tf 1 0 0 1 41 665 Tm (Professional profile) Tj ET
+.66 .76 .75 rg 41 656 512 1 re f
+BT .10 .17 .22 rg /A 11 Tf 1 0 0 1 41 634 Tm (Computer Engineering graduate with experience in technical support, equipment maintenance and backend) Tj ET
+BT .10 .17 .22 rg /A 11 Tf 1 0 0 1 41 620 Tm (development. I draw on field experience to build web tools for documenting and reviewing maintenance) Tj ET
+BT .10 .17 .22 rg /A 11 Tf 1 0 0 1 41 606 Tm (work.) Tj ET
+BT .10 .17 .22 rg /B 16 Tf 1 0 0 1 41 567 Tm (Experience) Tj ET
+.66 .76 .75 rg 41 558 512 1 re f
+BT .06 .40 .37 rg /B 10 Tf 1 0 0 1 41 530 Tm (Present) Tj ET
+BT .10 .17 .22 rg /B 12 Tf 1 0 0 1 123 530 Tm (Apartment maintenance) Tj ET
+BT .10 .17 .22 rg /A 9 Tf 1 0 0 1 123 514 Tm (United States) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 123 498 Tm (Interior repairs, finishing work and photographic documentation.) Tj ET
+BT .06 .40 .37 rg /B 10 Tf 1 0 0 1 41 466 Tm (Dec 2022) Tj ET
+BT .10 .17 .22 rg /B 12 Tf 1 0 0 1 123 466 Tm (Vengamers) Tj ET
+BT .10 .17 .22 rg /A 9 Tf 1 0 0 1 123 450 Tm (Valencia, Venezuela) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 123 434 Tm (Purchased video games through digital platforms.) Tj ET
+BT .06 .40 .37 rg /B 10 Tf 1 0 0 1 41 402 Tm (Aug 2021) Tj ET
+BT .10 .17 .22 rg /B 12 Tf 1 0 0 1 123 402 Tm (Aguas Yaracuy) Tj ET
+BT .10 .17 .22 rg /A 9 Tf 1 0 0 1 123 386 Tm (Venezuela) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 123 370 Tm (Developed backend software to manage service requests for electronic and) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 123 356 Tm (communications equipment.) Tj ET
+BT .06 .40 .37 rg /B 10 Tf 1 0 0 1 41 338 Tm (Mar 2019) Tj ET
+BT .10 .17 .22 rg /B 12 Tf 1 0 0 1 123 338 Tm (Yaracuy Regional Health Authority) Tj ET
+BT .10 .17 .22 rg /A 9 Tf 1 0 0 1 123 322 Tm (Venezuela) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 123 306 Tm (Led a community service team carrying out preventive maintenance and repairs on 150) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 123 292 Tm (computers.) Tj ET
+BT .10 .17 .22 rg /B 16 Tf 1 0 0 1 41 269 Tm (Projects) Tj ET
+.66 .76 .75 rg 41 260 512 1 re f
+BT .10 .17 .22 rg /B 10 Tf 1 0 0 1 41 238 Tm (Luma Crew) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 177 238 Tm (Field work documentation) Tj ET
+BT .10 .17 .22 rg /B 10 Tf 1 0 0 1 41 220 Tm (Caze Exchange) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 177 220 Tm (Exchange rate quotations) Tj ET
+BT .10 .17 .22 rg /B 10 Tf 1 0 0 1 41 202 Tm (University project) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 177 202 Tm (Academic development with Laravel) Tj ET
+BT .10 .17 .22 rg /B 16 Tf 1 0 0 1 41 165 Tm (Skills) Tj ET
+.66 .76 .75 rg 41 156 512 1 re f
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 41 138 Tm (IT support · Hardware and software diagnostics, Windows and Linux.) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 41 122 Tm (Web development · PHP, Laravel, backend development and hands-on use of Cloudflare.) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 41 106 Tm (Networking · Knowledge of LANs, WANs, WLANs, firewalls and VPNs.) Tj ET
+.92 .95 .94 rg 0 0 595 82 re f
+BT .10 .17 .22 rg /B 12 Tf 1 0 0 1 41 60 Tm (Education and languages) Tj ET
+BT .10 .17 .22 rg /A 9 Tf 1 0 0 1 41 40 Tm (Computer Engineering · Universidad Politécnica Territorial de Yaracuy Arístides Bastidas · 2021) Tj ET
+BT .10 .17 .22 rg /A 10 Tf 1 0 0 1 41 23 Tm (Native Spanish · Self-assessed B2 English) Tj ET
 endstream
 endobj
 xref
-0 6
+0 8
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
 0000000115 00000 n 
-0000000240 00000 n 
-0000000337 00000 n 
-trailer << /Size 6 /Root 1 0 R >>
+0000000258 00000 n 
+0000000355 00000 n 
+0000000457 00000 n 
+0000000555 00000 n 
+trailer << /Size 8 /Root 1 0 R >>
 startxref
-1841
+4382
 %%EOF

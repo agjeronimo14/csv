@@ -1,1 +1,197 @@
-*{box-sizing:border-box}html{scroll-padding-top:1rem}body{margin:0;background:#f8faf9;color:#142b37;font:17px/1.6 Inter,"Segoe UI",Arial,sans-serif}header,main{max-width:1120px;margin:auto;padding:0 5%}header{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:82px;border-bottom:1px solid #bfcdca}nav{display:flex;gap:1rem;flex-wrap:wrap}a{color:#105e5b;text-underline-offset:4px}header a{text-decoration:none;font-weight:650}header a:hover,summary:hover{text-decoration:underline}.mark{font-size:32px;letter-spacing:-3px}.hero{display:grid;grid-template-columns:1.3fr 1fr;align-items:center;gap:5%;padding:72px 0}.label,small{font-size:14px;color:#435e63}.label{font-weight:bold;text-transform:uppercase;letter-spacing:.1em}h1{font-size:clamp(60px,8vw,105px);letter-spacing:-.075em;line-height:.9;margin:20px 0}h1 span{color:#128276}.sub,.lead{font-size:clamp(20px,2.5vw,27px);line-height:1.45}.btn{display:inline-block;background:#0f645f;color:white;padding:10px 18px;border-radius:4px;text-decoration:none}.link{font-weight:650;margin:.4em}aside{background:#173c42;color:white;padding:clamp(24px,4vw,52px);border-top:6px solid #75c0aa}aside strong{font:normal clamp(32px,3.5vw,48px)/1.08 Georgia,serif}aside small{color:#d7e9e5}section{padding:36px 0;border-bottom:1px solid #bfcdca}h2{font:normal clamp(32px,4vw,46px)/1.15 Georgia,serif;margin:10px 0 24px}h3{margin:0}details{background:#e9f1ef;margin:10px 0;padding:18px 24px}summary{cursor:pointer}summary span{display:block;color:#435e63}article{display:grid;grid-template-columns:110px 1fr;gap:14px;padding:12px 0}p{max-width:72ch}a:focus-visible,summary:focus-visible{outline:3px solid #b5501a;outline-offset:3px}@media(max-width:760px){header{flex-wrap:wrap;padding-top:10px;padding-bottom:12px}nav{order:3;width:100%;gap:6px 14px;font-size:14px}.hero{grid-template-columns:1fr;gap:28px;padding:35px 0}article{grid-template-columns:85px 1fr}.link{overflow-wrap:anywhere}}
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-padding-top: 1rem;
+}
+
+body {
+  margin: 0;
+  background: #f8faf9;
+  color: #142b37;
+  font: 17px/1.6 Inter, "Segoe UI", Arial, sans-serif;
+}
+
+header,
+main {
+  max-width: 1120px;
+  margin: auto;
+  padding: 0 5%;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 82px;
+  border-bottom: 1px solid #bfcdca;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+a {
+  color: #105e5b;
+  text-underline-offset: 4px;
+}
+
+header a {
+  text-decoration: none;
+  font-weight: 650;
+}
+
+header a:hover,
+summary:hover {
+  text-decoration: underline;
+}
+
+.mark {
+  font-size: 32px;
+  letter-spacing: -3px;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  align-items: center;
+  gap: 5%;
+  padding: 72px 0;
+}
+
+.label,
+small {
+  font-size: 14px;
+  color: #435e63;
+}
+
+.label {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+h1 {
+  margin: 20px 0;
+  font-size: clamp(60px, 8vw, 105px);
+  letter-spacing: -0.075em;
+  line-height: 0.9;
+}
+
+h1 span {
+  color: #128276;
+}
+
+.sub,
+.lead {
+  font-size: clamp(20px, 2.5vw, 27px);
+  line-height: 1.45;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 4px;
+  background: #0f645f;
+  color: white;
+  text-decoration: none;
+}
+
+.link {
+  margin: 0.4em;
+  font-weight: 650;
+}
+
+aside {
+  padding: clamp(24px, 4vw, 52px);
+  border-top: 6px solid #75c0aa;
+  background: #173c42;
+  color: white;
+}
+
+aside strong {
+  font: normal clamp(32px, 3.5vw, 48px)/1.08 Georgia, serif;
+}
+
+aside small {
+  color: #d7e9e5;
+}
+
+section {
+  padding: 36px 0;
+  border-bottom: 1px solid #bfcdca;
+}
+
+h2 {
+  margin: 10px 0 24px;
+  font: normal clamp(32px, 4vw, 46px)/1.15 Georgia, serif;
+}
+
+h3 {
+  margin: 0;
+}
+
+details {
+  margin: 10px 0;
+  padding: 18px 24px;
+  background: #e9f1ef;
+}
+
+summary {
+  cursor: pointer;
+}
+
+summary span {
+  display: block;
+  color: #435e63;
+}
+
+article {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  padding: 12px 0;
+}
+
+p {
+  max-width: 72ch;
+}
+
+a:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #b5501a;
+  outline-offset: 3px;
+}
+
+@media (max-width: 760px) {
+  header {
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 12px;
+  }
+
+  nav {
+    order: 3;
+    width: 100%;
+    gap: 6px 14px;
+    font-size: 14px;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding: 35px 0;
+  }
+
+  article {
+    grid-template-columns: 85px 1fr;
+  }
+
+  .link {
+    overflow-wrap: anywhere;
+  }
+}
